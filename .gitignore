@@ -1,0 +1,16 @@
+# Carpetas generadas por NetBeans
+build/
+dist/
+
+# Archivos compilados
+*.class
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+
+# Configuración del sistema
+.DS_Store
+Thumbs.db
